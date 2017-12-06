@@ -1,0 +1,30 @@
+Installation on you android device:
+
+1. Copy app-debug.apk to your device.
+2. Find file "app-debug.apk" in fileManager and install it.
+
+To get acces to data:
+
+1. Write "1" in in the Logggin text area and "admin" int the Password area
+2. Make sure that Nurse checkbox isnot checked  
+3. Press loggin
+
+Data manipulation
+
+1. To see some data, start writing any number between 1-3 in Patient ID field
+2. Click on any of displayed test results to see doctor's conclusion
+3. Click menu button in rigth-up corner to see menu options
+
+Adding test results
+
+1. From menu options click "Add test"
+2. From List of Patients choose patient to whoome you want to add test
+3. From List of Nurse choose nurse who performed the test
+4. Write data in BPL, BPH, Temperature and Conclusion accordingly
+5. Press add test.
+
+Getting access to Nurse menu:
+
+1. On login page Write "1" in in the Logggin text area and "OlaP222"int the Password area
+2. Make sure that Nurse checkbox is checked  
+3. Press loggin
